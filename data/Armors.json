@@ -1,0 +1,2595 @@
+﻿[
+  null,
+  {
+    "id": 1,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 2,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 3,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 4,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 5,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 6,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 7,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 8,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 9,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 10,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 11,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 12,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 13,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 14,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 15,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 16,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 17,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 18,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 19,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 20,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 21,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 22,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 23,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 24,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 25,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 26,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 27,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 28,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 29,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 30,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 31,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 32,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "[Attribute Buff Items]",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 33,
+    "atypeId": 1,
+    "description": "[Strike DMG + 10%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ Strike ring",
+    "note": "<打撃の知識:+10%>\n<mppEqSt:打撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 34,
+    "atypeId": 1,
+    "description": "[Strike DMG + 20%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ Strike ring",
+    "note": "<打撃の知識:+20%>\n<mppEqSt:打撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 35,
+    "atypeId": 1,
+    "description": "[Strike DMG + 30%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ Strike Ring",
+    "note": "<打撃の知識:+30%>\n<mppEqSt:打撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 36,
+    "atypeId": 1,
+    "description": "[Slash DMG + 10%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ Slash ring",
+    "note": "<斬撃の知識:+10%>\n<mppEqSt:斬撃強化",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 37,
+    "atypeId": 1,
+    "description": "[Slash DMG + 20%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ Slash ring",
+    "note": "<斬撃の知識:+20%>\n<mppEqSt:斬撃強化",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 38,
+    "atypeId": 1,
+    "description": "[Slash DMG + 30%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ Slash Ring",
+    "note": "<斬撃の知識:+30%>\n<mppEqSt:斬撃強化",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 39,
+    "atypeId": 1,
+    "description": "[Shooting DMG + 10%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ Shooter Ring",
+    "note": "<射撃の知識:+10%>\n<mppEqSt:射撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 40,
+    "atypeId": 1,
+    "description": "[Shooting DMG + 20%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ Shooter Ring",
+    "note": "<射撃の知識:+20%>\n<mppEqSt:射撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 41,
+    "atypeId": 1,
+    "description": "[Shooting DMG + 30%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ Shooter Ring",
+    "note": "<射撃の知識:+30%>\n<mppEqSt:射撃強化>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 42,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "[Attribute Resistance Items]",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 43,
+    "atypeId": 1,
+    "description": "[Strike Resistance + 10%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★ Anti-Power Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 44,
+    "atypeId": 1,
+    "description": "[Strike Resistance + 20%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Power Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 45,
+    "atypeId": 1,
+    "description": "[Strike Resistance + 30%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★★ Anti-Power Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 46,
+    "atypeId": 1,
+    "description": "[Slash Resistance + 10%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★ Anti-Blade Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 47,
+    "atypeId": 1,
+    "description": "[Slash Resistance + 20%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Blade Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 48,
+    "atypeId": 1,
+    "description": "[Slash Resistance + 30%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★★ Anti-Blade Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 49,
+    "atypeId": 1,
+    "description": "[Shot Resistance + 10%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★ Anti-Shot Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300
+  },
+  {
+    "id": 50,
+    "atypeId": 1,
+    "description": "[Shot Resistance + 20%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Shot Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 51,
+    "atypeId": 1,
+    "description": "[Shot Resistance + 30%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★★ Anti-Shot Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 52,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "[Debuff Immunity Items]",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 53,
+    "atypeId": 1,
+    "description": "[Poison Resistance + 100%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Poison Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 54,
+    "atypeId": 1,
+    "description": "[Blind Resistance + 100%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Blind Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 55,
+    "atypeId": 1,
+    "description": "[Paralysis Resistance + 100%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Paralysis Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 56,
+    "atypeId": 1,
+    "description": "[Freeze Resistance + 100%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 66,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Freeze Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 57,
+    "atypeId": 1,
+    "description": "[Curse Resistance + 100%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★ Anti-Curse Ring",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 58,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 59,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 60,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 61,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "[Special Items]",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 62,
+    "atypeId": 1,
+    "description": "Begin a battle with 10 TP.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ TP Booster",
+    "note": "<mppEqSt:TPブースト10>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 63,
+    "atypeId": 1,
+    "description": "Begin a battle with 30 TP.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ TP Booster",
+    "note": "<mppEqSt:TPブースト30>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 64,
+    "atypeId": 1,
+    "description": "Begin a battle with 30 TP.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ TP Booster",
+    "note": "Begin a battle with 50 TP.",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 65,
+    "atypeId": 1,
+    "description": "Begin a battle with 300% DEF for the first turn.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ Provisional Barrier",
+    "note": "<mppEqSt:ファーストバリア>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 66,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 67,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 68,
+    "atypeId": 1,
+    "description": "MP cost is reduced by 10%.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★ MP Regulator",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 69,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 70,
+    "atypeId": 1,
+    "description": "At the start of every turn, there is a 20% chance to \ndraw twice.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★ Luck of the Draw",
+    "note": "<mppEqSt:ラッキードロー20%>\n\n<EquipTag:ラッキー>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 71,
+    "atypeId": 1,
+    "description": "At the start of every turn, there is a 40% chance to \ndraw twice.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ Luck of the Draw",
+    "note": "<mppEqSt:ラッキードロー40%>\n\n<EquipTag:ラッキー>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 72,
+    "atypeId": 1,
+    "description": "Immune to basic debuffs (poison, etc) for the first 3 \nturns.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ Divine Protection",
+    "note": "<mppEqSt:ステートプロテクト>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 73,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 74,
+    "atypeId": 1,
+    "description": "Draw 4 times instead of 3 at the start of battle.",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★ First Draw",
+    "note": "<mppEqSt:ファーストドロー>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 75,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 76,
+    "atypeId": 1,
+    "description": "Increases the number of normal attacks by 1.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 34,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★★ Double Swing",
+    "note": "<mppEqSt:通常攻撃＋１>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 77,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 78,
+    "atypeId": 1,
+    "description": "Increases Critical Rate by 10%.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 145,
+    "name": "★★★ Criticalizer",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 79,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 80,
+    "atypeId": 1,
+    "description": "[Strike DMG +100%]\n[Slash DMG -50%] [Shooting DMG-50%]",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 145,
+    "name": "★★★ Power of Powers",
+    "note": "<打撃の知識:+100%>\n<斬撃の知識:-50%>\n<射撃の知識:-50%>\n<mppEqSt:打撃超強化\n斬撃弱体\n射撃弱体>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 81,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 82,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 83,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 84,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 85,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 86,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 87,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 88,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 89,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 90,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 91,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 92,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 93,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 94,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 95,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 96,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 97,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 98,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 99,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 100,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  }
+]
